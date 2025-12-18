@@ -1,3 +1,5 @@
+// Link: https://adventofcode.com/2025/day/2
+
 #include <iostream>
 #include <fstream>
 #include <string>
