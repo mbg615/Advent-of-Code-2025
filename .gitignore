@@ -172,5 +172,5 @@ Temporary Items
 *.icloud
 
 ### AoC ###
-sample.txt
-input.txt
+**/sample.txt
+**/input.txt
